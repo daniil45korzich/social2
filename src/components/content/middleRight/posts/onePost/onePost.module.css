@@ -1,0 +1,19 @@
+.item{
+    display:flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.item img{
+    margin-right:20px;
+}
+.like{
+    font-size:12px;
+    color:red;
+    margin-left:20px;
+}
+.like:after{
+    content:")";
+}
+.like:before{
+    content:"(";
+}

@@ -1,0 +1,14 @@
+.rootMySocial{
+    width:1200px;
+    margin:0 auto;
+    position: relative;
+}
+.wrapperMiddle{
+    display:flex;
+    justify-content: space-between;
+}
+.wrapperMiddleRight{
+    height: 500px;
+    background: #f6dada;
+    width: 100%;
+}
